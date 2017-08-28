@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/ashKadam/ashkadam.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Thank you for visiting my website. I hope you are having a good day! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Let me introduce myself.  
+I am Ashwini. Graduate student pursuing MS in Computer Science at University of North Carolina at Charlotte. I am also a **Software Developer** and **newbie Data Analyst**.
 
-### Markdown
+### Professional Experience: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have worked as **Associate Software Engineer** with Siemens PLM Software for 2 years (mainly in C++).
+Currently, I am working as **Graduate Research Assistant** at UNCC and contributing to 'IGB' (Genome Visualization and Data Analysis Software for BioInformatics world) by **development, manitainance and testing in Java**. 
 
-```markdown
-Syntax highlighted code block
+Check out my work profile on [LoraineLab](http://lorainelab.org/ashwini-kadam/) and some work samples on [bitbucket](https://bitbucket.org/ashwiniK27/).
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Academic Projects:
 
-1. Numbered
-2. List
+You can see my academic projects [here](https://github.com/ashKadam). These projects include skills and concepts I have been learning in the area of software development and data analysis through my course work. 
 
-**Bold** and _Italic_ and `Code` text
+Let's take a peek at some of my academic projects: 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1.**READBOOK - Book Rating and Review App**
 
-### Jekyll Themes
+This was a team project under the course **Software Systems Design and Implementation**. I have contributed to this project along with other 3 team members. You can find the project and my commits [here](https://github.com/pmahend1/Software-Systems-Design-and-Implementation).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashKadam/ashkadam.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**READTHATBOOK** provides a web based interface for users to search for book of his choice based on user rating and reviews. Users can also rate and review the books and put the books into their wish list. This helps in short listing books for bibliophiles, casual readers and also critics to review books.
 
-### Support or Contact
+**Skills**: JSP, HTML/CSS, Javasscript, BootStrap, mySQL, MVC, Apache Web Server, Agile, Netbeans, GitHub, Taiga. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+2. **Email Spam Classification** - Project 
+
+
+### Contact ME:
+
+Liked my work? Have any comments or concerns? Please let me know on **ashkadam34@gmail.com**
+
+You think you have work opportunity for me? I would love to know.... :)
+Don't forget to checkout my profile on [LinkedIn](https://www.linkedin/in/ashwini-kadam)
+
+Cheers!
